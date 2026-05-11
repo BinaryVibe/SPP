@@ -1,0 +1,12 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IPython configuration
+profile_default/
+ipython_config.py
+
+# Optional: Ignore generated HTML/PDF versions of notebooks
+*.html
+*.pdf
+
